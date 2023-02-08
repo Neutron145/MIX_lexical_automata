@@ -1,0 +1,8 @@
+OK
+|2000	|4	|37	|8	|
+|1400	|0	|28	|24	|
+|300	|4	|5	|63	|
+lda[op] 2000[addrs] ,4[spec] (4:5)[mod]  [end] 
+sta[op] 1400[addrs] (3:4)[mod]  [end] 
+cmpx[op] 300[addrs] ,4[spec]  [end] 
+
